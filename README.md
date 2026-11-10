@@ -18,6 +18,15 @@ The project develops a simple baseband BPSK receiver testbench that:
 
 The project is intended as a practical exploration of undergraduate communication and DSP concepts through implementation and experimentation.
 
+## Key Results
+
+- **69.78 dB** measured suppression of the 4 kHz narrowband interferer
+- **0-sample timing error** in the baseline burst-localization experiment
+- **189.16** baseline matched-filter correlation peak
+- Correct rejection of the signal-absent case with an accidental peak of only **11.62**
+- Monte Carlo evaluation of detection probability and false-alarm probability across **-20 dB to 10 dB SNR**
+- MATLAB and Simulink implementations showing consistent receiver behavior
+
 ---
 
 ## 1. Receiver Architecture
