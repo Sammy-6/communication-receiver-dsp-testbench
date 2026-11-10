@@ -1,0 +1,8 @@
+Metric,Value,Unit
+Measured 4 kHz interference attenuation,-69.78,dB
+True burst start,350,samples
+Estimated burst start,350,samples
+Baseline timing error,0,samples
+Signal-present correlation peak,189.16,correlation magnitude
+Detection threshold,120,correlation magnitude
+Signal-absent largest correlation peak,11.62,correlation magnitude

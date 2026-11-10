@@ -1,0 +1,7 @@
+InterferenceFrequency_kHz,FilterResponse_dB,CorrelationPeak,TimingError_samples,Detected
+1,-0,189.16,0,1
+1.5,-0.03,205.4,-1,1
+2,-5.99,189.16,0,1
+2.5,-52.64,189.18,0,1
+3,-60.42,189.16,0,1
+4,-63.63,189.16,0,1
