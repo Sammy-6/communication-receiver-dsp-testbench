@@ -166,8 +166,8 @@ The project compares received waveforms at:
 Example outputs are stored in:
 
 ```text
-results/matlab/03_awgn_snr_20dB.png
-results/matlab/03_awgn_snr_10dB.png
+results/matlab/03_awgn_snr_+20dB.png
+results/matlab/03_awgn_snr_+10dB.png
 results/matlab/03_awgn_snr_0dB.png
 results/matlab/03_awgn_snr_-5dB.png
 ```
